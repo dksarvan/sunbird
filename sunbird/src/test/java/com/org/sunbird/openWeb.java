@@ -9,7 +9,7 @@ public class openWeb {
  
   @BeforeMethod
   public void beforeMethod() {
-	  System.out.println("Inside BeforeMethod");
+	  System.out.println("Inside Before");
   }
 
   @Test
@@ -19,7 +19,7 @@ public class openWeb {
   
   @AfterMethod
   public void afterMethod() {
-	  System.out.println("Inside AfterMethod");
+	  System.out.println("Inside After");
   }
 
 
