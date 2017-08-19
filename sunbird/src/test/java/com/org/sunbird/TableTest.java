@@ -11,7 +11,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class Table {
+public class TableTest {
 
 	
 	WebDriver driver;
@@ -20,7 +20,7 @@ public class Table {
 		 public void setup() throws Exception {
 
 				
-			 System.setProperty("webdriver.chrome.driver","F:\\sarvan\\sunbird\\sunbird\\Resources\\chromedriver.exe");
+			 System.setProperty("webdriver.chrome.driver","C:\\Users\\Sarvan\\git\\sunbird\\sunbird\\Resources\\chromedriver.exe");
 				 driver = new ChromeDriver();
 				
 				driver.manage().window().maximize();

@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="16934" started-at="2017-08-14T16:24:44Z" finished-at="2017-08-14T16:25:01Z">
+  <suite name="Default suite" duration-ms="15310" started-at="2017-08-19T11:16:03Z" finished-at="2017-08-19T11:16:18Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="16934" started-at="2017-08-14T16:24:44Z" finished-at="2017-08-14T16:25:01Z">
+    <test name="Default test" duration-ms="15310" started-at="2017-08-19T11:16:03Z" finished-at="2017-08-19T11:16:18Z">
       <class name="com.org.sunbird.Table">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.org.sunbird.Table@15530b9]" name="setup" is-config="true" duration-ms="13517" started-at="2017-08-14T21:54:44Z" finished-at="2017-08-14T21:54:57Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.org.sunbird.Table@18be83e4]" name="setup" is-config="true" duration-ms="11136" started-at="2017-08-19T16:46:03Z" finished-at="2017-08-19T16:46:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="Handle_Dynamic_Webtable()[pri:0, instance:com.org.sunbird.Table@15530b9]" name="Handle_Dynamic_Webtable" duration-ms="1193" started-at="2017-08-14T21:54:57Z" finished-at="2017-08-14T21:54:58Z">
+        <test-method status="PASS" signature="Handle_Dynamic_Webtable()[pri:0, instance:com.org.sunbird.Table@18be83e4]" name="Handle_Dynamic_Webtable" duration-ms="2080" started-at="2017-08-19T16:46:14Z" finished-at="2017-08-19T16:46:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Handle_Dynamic_Webtable -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.org.sunbird.Table@15530b9]" name="tearDown" is-config="true" duration-ms="2204" started-at="2017-08-14T21:54:58Z" finished-at="2017-08-14T21:55:01Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.org.sunbird.Table@18be83e4]" name="tearDown" is-config="true" duration-ms="2044" started-at="2017-08-19T16:46:16Z" finished-at="2017-08-19T16:46:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
